@@ -3,10 +3,10 @@
 This is a C++ program for implementing a priority queue using a binary search tree (BST) data structure. The priority queue is a container adaptor that provides constant time lookup of the largest (by default) element, at the expense of logarithmic insertion and extraction. The priority queue is implemented as a BST where the root node has the highest priority.
 ## Features
 
-    + Allows for duplicate priorities
-    + Provides iterators for traversing the priority queue in the order that the elements are stored in the BST
-    + Provides a clear function for deleting all elements in the priority queue and freeing up memory
-    + Provides copy constructor and assignment operator for creating a copy of the priority queue
+    Allows for duplicate priorities
+    Provides iterators for traversing the priority queue in the order that the elements are stored in the BST
+    Provides a clear function for deleting all elements in the priority queue and freeing up memory
+    Provides copy constructor and assignment operator for creating a copy of the priority queue
 
 ## How to use
 
